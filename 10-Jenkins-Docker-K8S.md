@@ -1,4 +1,4 @@
-# Project Setup using below tools
+# DevOps Project Setup using below tools
 1) Maven
 2) Git Hub
 3) Jenkins
